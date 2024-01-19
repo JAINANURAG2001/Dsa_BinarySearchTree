@@ -1,0 +1,6 @@
+most important *** 
+
+In the bst the inorder is sorted ;
+
+
+
